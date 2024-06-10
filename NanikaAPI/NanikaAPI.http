@@ -1,0 +1,6 @@
+@NanikaAPI_HostAddress = http://localhost:5160
+
+GET {{NanikaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
